@@ -2,7 +2,12 @@
 
 
 body{
-    background-color: black;
-    color: red
+    background-color: white;
+    color: black;
     font-family: "Prata", serif;
+}
+
+.cabecalho{
+    background-color: red;
+    text-align: center;
 }
