@@ -2,12 +2,12 @@
 
 
 body{
-    background-color: gainsboro;
+    background-color: whitesmoke;
     color: black;
     font-family: "Prata", serif;
 }
 
 .cabecalho{
-    background-color: powderblue;
+    background-color: rgb(143, 24, 24);
     text-align: center;
 }
