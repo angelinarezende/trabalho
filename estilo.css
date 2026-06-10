@@ -2,12 +2,12 @@
 
 
 body{
-    background-color: white;
+    background-color: whitesmoke;
     color: black;
     font-family: "Prata", serif;
 }
 
 .cabecalho{
-    background-color: red;
+    background-color: powderblue;
     text-align: center;
 }
