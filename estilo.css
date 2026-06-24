@@ -11,7 +11,7 @@ padding: 0;
 
 body{
     background-color: whitesmoke;
-    color: black;
+    color: rgb(243, 240, 240);
     font-family: "Prata", serif;
 }
 
@@ -25,7 +25,7 @@ width: 80px;
 height: 80px;
 }
 main{
-background-color: rgb(255, 0, 106);
+background-color: rgb(0, 0, 0);
 color: rgb(232, 228, 228);
 max-width: 800px;
 margin: 0 auto;
