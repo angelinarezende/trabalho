@@ -6,7 +6,7 @@ let curtiu = false;
 botao.addEventlistener("click", botaoClicado)
 
 function botaoClicado (){
-    console.log("botaoClicado")
+    console.log("botao clicado")
 
 }
 
