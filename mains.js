@@ -9,5 +9,4 @@ function botaoClicado (){
     console.log("botao clicado")
 
 }
-
 })
